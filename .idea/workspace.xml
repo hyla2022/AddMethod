@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JoAYbiyIAtIDKirNil8ePSb283" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="203" key="new project wizard" timestamp="1672734179597">
+      <screen x="0" y="0" width="1920" height="999" />
+    </state>
+    <state x="334" y="203" key="new project wizard/0.0.1920.999@0.0.1920.999" timestamp="1672734179597" />
+  </component>
+</project>
