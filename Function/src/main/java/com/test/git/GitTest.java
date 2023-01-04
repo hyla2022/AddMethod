@@ -6,6 +6,8 @@ public class GitTest {
         System.out.println("Today have a good weather!");
         System.out.println("**********");
         System.out.println("hahahahahhah");
+
         System.out.println("Today weather is bad!");
+        System.out.println("=========");
     }
 }
