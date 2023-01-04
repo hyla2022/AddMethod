@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3806bb1-6a1a-4e91-9ae3-40e84f29d493" name="Default Changelist" comment="" />
+    <list default="true" id="e3806bb1-6a1a-4e91-9ae3-40e84f29d493" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/Function.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Function/Function.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,10 +60,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="811" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1672800350720">
+    <state x="811" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1672800386655">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
-    <state x="811" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.999@0.0.1920.999" timestamp="1672800350720" />
+    <state x="811" y="391" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.999@0.0.1920.999" timestamp="1672800386655" />
     <state x="440" y="77" key="SettingsEditor" timestamp="1672800378563">
       <screen x="0" y="0" width="1920" height="999" />
     </state>
