@@ -9,6 +9,12 @@ public class GitTest {
 
         System.out.println("Today weather is bad!");
         System.out.println("=========");
+        System.out.println("conflict");
+
+    }
+
+    public void aTest() {
+        System.out.println("test method!");
     }
 
     public void aTest() {
