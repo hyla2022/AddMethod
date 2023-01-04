@@ -17,7 +17,7 @@ public class GitTest {
         System.out.println("test method!");
     }
 
-    public void aTest() {
+    public void bTest() {
         System.out.println("aTest");
     }
 
