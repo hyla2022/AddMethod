@@ -10,4 +10,10 @@ public class GitTest {
         System.out.println("Today weather is bad!");
         System.out.println("=========");
     }
+
+    public void aTest() {
+        System.out.println("aTest");
+    }
+
+
 }
